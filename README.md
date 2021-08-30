@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Vue & Vuex
 - ⚡ Fun fact: Sometimes I stream at Twitch!
 
-## Technologies. 🚀
+## Technologies
 HTML, CSS, SASS, Javascript, React, Redux, Angular, NgRx, Nodejs, Firebase, MongoDB, GraphQL
 
 ## Some other stuff
